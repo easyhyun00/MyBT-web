@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Player';
+    src: url('./PLAYER.otf');
+}
+
+@font-face {
+    font-family: 'Ramche';
+    src: url('./Ramche.otf');
+}
+
+@font-face {
+    font-family: JSArirang;
+    src: url(./JSArirang.otf);
+}
+
+@font-face {
+    font-family: TheJamsil;
+    src: url(./Jamsil.otf);
+}
